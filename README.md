@@ -57,3 +57,25 @@ Cmd \ toggles the file tree in atom
   METEOR@1.4.1.3
 .meteor/local/packages
 ```
+### Use Materialize UI
+```
+meteor npm install --save material-ui react-tap-event-plugin
+```
+http://www.material-ui.com/#/
+https://www.npmjs.com/package/material-ui
+https://github.com/google/material-design-icons
+```
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+```
+	for main.html
+fonts.google.com
+	search for roboto font
+```
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+```
+http://materializecss.com/
+http://materializecss.com/getting-started.html
+```
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/css/materialize.min.css">
+<!-- ``` -->
